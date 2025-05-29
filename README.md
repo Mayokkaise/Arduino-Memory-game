@@ -16,3 +16,5 @@ This uses an arduino uno r3 with a few buttons, leds, and a buzzer to make a fun
 
   ## Software
   Use the code provided in the .ino file. If you want to change the pins, you can change them in the top, and make sure to change them for the buzzer sounds too. You can also change the notes the buzzer will make by changing the frequency.
+
+![image](https://github.com/user-attachments/assets/3b03e2fb-b1dc-4d9a-90cb-db78f2630a30)
